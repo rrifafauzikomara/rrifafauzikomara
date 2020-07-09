@@ -4,6 +4,6 @@ Hi there 👋, I'm a Mobile Programmer Specialist at Sinarmas MSIG Life (Jakarta
 
 I also have experience in several communities, such as Ex-Lead at [Google DSC](https://developers.google.com/community/dsc), Co-Organizer at [Flutter Jakarta](https://www.meetup.com/Flutter-Jakarta/), and Instructor at [AEJ Jakarta](https://www.instagram.com/aej.id/?hl=id).
 
-## 📫 You can reach me on:
+### 📫 You can reach me on:
 * Instagram: [@rifafauzi6](https://www.instagram.com/rifafauzi6/?hl=id)
 * LinkedIn: [R Rifa Fauzi Komara](https://www.linkedin.com/in/rrifafauzikomara/)
