@@ -8,8 +8,6 @@ Apart from that, I also Ex-Lead at [Google DSC](https://developers.google.com/co
 
 <img src="https://github-readme-stats.vercel.app/api?username=rrifafauzikomara&&show_icons=true&title_color=70ffec&icon_color=bb2acf&text_color=ffffff&bg_color=151515">
 
-<img align="left" alt="Syakir Arif's Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrifafauzikomara&layout=compact"/>
-
 ### 📫 You can reach me on:
 * [Medium](https://medium.com/@rifafauzi6)
 * [Instagram](https://www.instagram.com/rifafauzi6/?hl=id)
