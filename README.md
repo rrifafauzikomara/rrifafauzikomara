@@ -8,6 +8,10 @@ Apart from that, I also Ex-Lead at [Google DSC](https://developers.google.com/co
 
 <img src="https://github-readme-stats.vercel.app/api?username=rrifafauzikomara&&show_icons=true&title_color=70ffec&icon_color=bb2acf&text_color=ffffff&bg_color=151515">
 
+## Languages & Frameworks:
+- Dart (Flutter)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"/>
+- Java/Kotlin<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"/>
+
 ### 📫 You can reach me on:
 * [Medium](https://medium.com/@rifafauzi6)
 * [Instagram](https://www.instagram.com/rifafauzi6/?hl=id)
