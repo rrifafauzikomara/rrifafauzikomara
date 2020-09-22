@@ -6,6 +6,7 @@ Apart from that, I also Ex-Lead at [Google DSC](https://developers.google.com/co
 
 I love playing badminton, games, hiking, travelling, coffee, and sharing.
 
+<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rrifafauzikomara&&show_icons=true&title_color=70ffec&icon_color=bb2acf&text_color=ffffff&bg_color=151515">
 
