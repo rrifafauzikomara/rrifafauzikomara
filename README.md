@@ -1,6 +1,6 @@
-# R Rifa Fauzi Komara
+<h1 align='center'>Assalamualaikum! 👋</h1>
 
-Assalamualaikum! 👋 Hai, I'm Rifa, a Mobile Developer which focuses on Flutter and Kotlin. Currently working as a Mobile Programmer Specialist at Sinarmas MSIG Life. I have experienced with Android App Development using Kotlin and get [Google Certified Associate Android Developer](https://www.credential.net/ad01ed34-0da3-40aa-b84d-3dadbdc8a6fe#gs.adehgc). I also have experience in Flutter and often share my experiences about Flutter technology in several communities and campuses.
+Hai, I'm Rifa, a Mobile Developer which focuses on Flutter and Kotlin. Currently working as a Mobile Programmer Specialist at Sinarmas MSIG Life. I have experienced with Android App Development using Kotlin and get [Google Certified Associate Android Developer](https://www.credential.net/ad01ed34-0da3-40aa-b84d-3dadbdc8a6fe#gs.adehgc). I also have experience in Flutter and often share my experiences about Flutter technology in several communities and campuses.
 
 Apart from that, I also Ex-Lead at [Google DSC](https://developers.google.com/community/dsc), Co-Organizer at [Flutter Jakarta](https://www.meetup.com/Flutter-Jakarta/), and Instructor at [AEJ Jakarta](https://www.instagram.com/aej.id/?hl=id). I love playing badminton, games, hiking, travelling, coffee, and sharing.
 
