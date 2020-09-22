@@ -4,15 +4,6 @@ Assalamualaikum! 👋 Hai, I'm Rifa, a Mobile Developer which focuses on Flutter
 
 Apart from that, I also Ex-Lead at [Google DSC](https://developers.google.com/community/dsc), Co-Organizer at [Flutter Jakarta](https://www.meetup.com/Flutter-Jakarta/), and Instructor at [AEJ Jakarta](https://www.instagram.com/aej.id/?hl=id). I love playing badminton, games, hiking, travelling, coffee, and sharing.
 
-<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rrifafauzikomara&&show_icons=true&title_color=70ffec&icon_color=bb2acf&text_color=ffffff&bg_color=151515">
-
-## Languages & Frameworks:
-- Dart (Flutter)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"/>
-- Java/Kotlin<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"/>
-
-## 📫 You Can Reach Me On:
 <p align='center'>
 <a href="https://twitter.com/rifa_komara">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
@@ -30,3 +21,11 @@ Apart from that, I also Ex-Lead at [Google DSC](https://developers.google.com/co
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
+
+<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rrifafauzikomara&&show_icons=true&title_color=70ffec&icon_color=bb2acf&text_color=ffffff&bg_color=151515">
+
+## Languages & Frameworks:
+- Dart (Flutter)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"/>
+- Java/Kotlin<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"/>
