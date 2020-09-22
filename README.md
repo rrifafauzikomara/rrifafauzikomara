@@ -14,9 +14,6 @@ Apart from that, I also Ex-Lead at [Google DSC](https://developers.google.com/co
 <a href="https://medium.com/@rifafauzi6">
   <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp;
- <a href="https://www.instagram.com/rifafauzi6/?hl=id">
-  <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>&nbsp;&nbsp;
 <a href="mailto:rifafauzi6@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
