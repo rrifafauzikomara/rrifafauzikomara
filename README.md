@@ -20,15 +20,12 @@ Apart from that, I also Ex-Lead at [Google DSC](https://developers.google.com/co
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://medium.com/@rifafauzi6">
-  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/rifafauzi6/?hl=id">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="mailto:rifafauzi6@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<img src="https://gpvc.arturio.dev/jideguru" />
 </p>
-
-### 📫 You can reach me on:
-* [Medium]()
-* [Instagram](https://www.instagram.com/rifafauzi6/?hl=id)
-* [LinkedIn]()
