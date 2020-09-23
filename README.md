@@ -23,7 +23,7 @@ Apart from that, I also Ex-Lead at [Google DSC Indonesia](https://developers.goo
 
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rrifafauzikomara&&show_icons=true&title_color=70ffec&icon_color=bb2acf&text_color=ffffff&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=rrifafauzikomara">
 
 ## Languages & Frameworks:
 - Flutter (Dart)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"/>
