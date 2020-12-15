@@ -1,4 +1,5 @@
 <h1 align='center'>Assalamualaikum! 👋</h1>
+<p align='center'>I am a Software Engineer focused on Flutter💙 and Javascript💛. </p>
 
 Hai, I'm Rifa, a Mobile Developer which focuses on Flutter 💙 and Kotlin 💚. Currently working as a Mobile Programmer Senior Associate at Sinarmas MSIG Life. I have experienced in Android Development using Kotlin and get [Google Certified Associate Android Developer](https://www.credential.net/ad01ed34-0da3-40aa-b84d-3dadbdc8a6fe#gs.adehgc). I also have experienced in Flutter and often share my experiences about Flutter technology in several communities and campuses.
 
@@ -28,10 +29,3 @@ Apart from that, I also Ex-Lead at [Google DSC Indonesia](https://developers.goo
 ## Languages & Frameworks:
 - Flutter (Dart)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"/>
 - Android (Java/Kotlin)<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"/>
-
-![](https://komarev.com/ghpvc/?username=rrifafauzikomara&color=green)
-
-
-<!--
-<p align='center'>I am a Software Engineer focused on Flutter💙 and Javascript💛. </p>
--->
