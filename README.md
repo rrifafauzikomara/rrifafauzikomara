@@ -29,6 +29,8 @@ Apart from that, I also Ex-Lead at [Google DSC Indonesia](https://developers.goo
 - Flutter (Dart)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"/>
 - Android (Java/Kotlin)<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"/>
 
+![](https://komarev.com/ghpvc/?username=rrifafauzikomara&color=green)
+
 
 <!--
 <p align='center'>I am a Software Engineer focused on Flutter💙 and Javascript💛. </p>
