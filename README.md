@@ -27,4 +27,4 @@ Apart from that, I also Ex-Lead at [Google DSC Indonesia](https://developers.goo
 
 ## Languages & Frameworks:
 - Flutter (Dart)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"/>
-- Android (Java/Kotlin)<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"/>
+- Android (Kotlin)<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"/>
