@@ -5,6 +5,9 @@ Hai, I'm Rifa, a Mobile Developer which focuses on Flutter 💙 and Kotlin 💚.
 Apart from that, I also Ex-Lead at [Google DSC Indonesia](https://developers.google.com/community/dsc), Instructor at [AEJ Community](https://www.instagram.com/aej.id/?hl=id), Co-Organizer at [Flutter Indonesia Community](https://t.me/flutter_id) and [Flutter Jakarta Community](https://www.meetup.com/Flutter-Jakarta/)
 
 <p align='center'>
+<a href="https://www.instagram.com/rifafauzi6/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;&nbsp;
 <a href="https://twitter.com/rifa_komara">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
