@@ -1,8 +1,10 @@
 <h1 align='center'>Assalamualaikum! 👋</h1>
 
-Hai, I'm Rifa, a Mobile Developer which focuses on Flutter 💙 and Kotlin 💚. I have experienced in Android Development using Kotlin and get [Google Certified Associate Android Developer](https://www.credential.net/ad01ed34-0da3-40aa-b84d-3dadbdc8a6fe#gs.adehgc). I also have experienced in Flutter and often share my experiences about Flutter technology in several communities and campuses.
+Hi, I'm Rifa, a Mobile Developer which focuses on Flutter Framework. 
 
-Apart from that, I also Ex-Lead at [Google DSC Indonesia](https://developers.google.com/community/dsc), Instructor at [AEJ Community](https://www.instagram.com/aej.id/?hl=id), Co-Organizer at [Flutter Indonesia Community](https://t.me/flutter_id) and [Flutter Jakarta Community](https://www.meetup.com/Flutter-Jakarta/)
+I have experience in Android Development using Kotlin and get [Google Certified Associate Android Developer](https://www.credential.net/ad01ed34-0da3-40aa-b84d-3dadbdc8a6fe#gs.adehgc). I also have experience in Flutter and often share my experiences about Flutter technology in several communities and campuses.
+
+Apart from that, I am also an Ex-Lead at [Google DSC Indonesia](https://developers.google.com/community/dsc), Instructor at [AEJ Community](https://www.instagram.com/aej.id/?hl=id), Co-Organizer at [Flutter Indonesia Community](https://t.me/flutter_id) and [Flutter Jakarta Community](https://www.meetup.com/Flutter-Jakarta/)
 
 <p align='center'>
 <a href="https://www.instagram.com/rifafauzi6/">
